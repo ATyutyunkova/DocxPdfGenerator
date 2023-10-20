@@ -396,3 +396,16 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/.idea.DocxPdfGenerator.dir/.idea/encodings.xml
+.idea/.idea.DocxPdfGenerator.dir/.idea/indexLayout.xml
+.idea/.idea.DocxPdfGenerator.dir/.idea/vcs.xml
+DocxPdfGenerator/.idea/.idea.DocxPdfGenerator.dir/.idea/encodings.xml
+DocxPdfGenerator/.idea/.idea.DocxPdfGenerator.dir/.idea/git_toolbox_prj.xml
+DocxPdfGenerator/.idea/.idea.DocxPdfGenerator.dir/.idea/indexLayout.xml
+DocxPdfGenerator/.idea/.idea.DocxPdfGenerator.dir/.idea/vcs.xml
+DocxPdfGenerator/.idea/.idea.DocxPdfGenerator.dir/.idea/encodings.xml
+DocxPdfGenerator/.idea/.idea.DocxPdfGenerator.dir/.idea/encodings.xml
+.idea/.idea.DocxPdfGenerator.dir/.idea/projectSettingsUpdater.xml
+.idea/.idea.DocxPdfGenerator.dir/.idea/workspace.xml
+DocxPdfGenerator/.idea/.idea.DocxPdfGenerator.dir/.idea/encodings.xml
+DocxPdfGenerator/.idea/.idea.DocxPdfGenerator.dir/.idea/encodings.xml
